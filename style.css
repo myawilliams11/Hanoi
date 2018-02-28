@@ -20,7 +20,7 @@
 }
 
 #tower1 { 
-        border: solid 2px orange;
+        border: solid 2px black;
         width: 33%;
         display:flex;
         flex-direction: column-reverse;
@@ -29,7 +29,7 @@
 }
 
 #tower2{
-        border: solid 2px blue;
+        border: solid 2px black;
         width: 33%;
         display:flex;
         flex-direction: column-reverse;
@@ -38,7 +38,7 @@
 }
 
 #tower3{
-        border: solid 2px pink;
+        border: solid 2px black;
         width: 33%;
         display:flex;
         flex-direction: column-reverse;
