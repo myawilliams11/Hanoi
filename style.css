@@ -1,0 +1,57 @@
+.disk0  { width: 100px; 
+        height: 50px;
+        background-color: red;
+
+}
+
+.disk1 { width: 150px;
+    height: 50px;
+        background-color: blue;
+}
+
+.disk2 { width: 200px;
+    height: 50px;
+        background-color: yellow;
+}
+
+.disk3 { width: 250px;
+    height: 50px;
+        background-color: green;
+}
+
+#tower1 { 
+        border: solid 2px orange;
+        width: 33%;
+        display:flex;
+        flex-direction: column-reverse;
+        align-items:center;
+
+}
+
+#tower2{
+        border: solid 2px blue;
+        width: 33%;
+        display:flex;
+        flex-direction: column-reverse;
+        align-items:center;
+
+}
+
+#tower3{
+        border: solid 2px pink;
+        width: 33%;
+        display:flex;
+        flex-direction: column-reverse;
+        align-items:center;
+
+}
+
+#towers{ display: flex;
+        flex-direction: row;
+         border: solid 2px black;
+         width: 800px;
+         margin: 0 auto;
+         height: 400px;
+
+
+}
